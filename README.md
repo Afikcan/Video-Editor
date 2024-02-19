@@ -1,2 +1,2 @@
 # Video-Editor
-By using speech to text, I can keep the data (transcript) of the video in json format and make changes on the video by using the information I get from the json extension file.
+This project automates the enhancement of video content by removing filler words from the audio track, utilizing speech recognition data to identify and edit out unnecessary parts. It aims to create clearer, more engaging videos by focusing on substantive content, improving viewer experience and comprehension. The process saves significant editing time and resources, making it an efficient solution for refining presentations, lectures, and professional videos.
